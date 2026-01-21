@@ -32,6 +32,14 @@ Short historical background (en français):
 
 ## Installation
 
+### From PyPI
+
+`pip install vivaldy`
+
+_Et voilà._
+
+### From source, with conda environments
+
 If needed, create a dedicated environment:
 
 ```
@@ -59,6 +67,8 @@ conda install -c conda-forge --yes --file requirements.txt
 pip install -r pip_requirements.txt
 pip install .
 ```
+
+### Quick test
 
 Ensure everything is working properly by trying to import and run `vivaldy`:
 
