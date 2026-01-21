@@ -18,14 +18,14 @@ administration and other serious organisations. It is a natural and unmissable
 addition to any Python code that requires a long waiting time when running.
 
 It is _scientifically proven™_
-([Hul. _et al._ (1997)](https://doi.org/10.1016/S0022-4359%2897%2990016-6))
+([Hul _et al._ 1997](https://doi.org/10.1016/S0022-4359%2897%2990016-6))
 that waiting music has a positive impact on the user experience.
 
 Be careful, however, as the valence of your selected waiting music may
 influenced the perceived waiting time: it has been established that "perceived
 duration was longest for subjects exposed to positively valenced (major key)
 music, and shortest for negatively valenced (atonal) music"
-[Kellaris & Kent 1992](https://doi.org/10.1016/S1057-7408%2808%2980060-5).
+[Kellaris & Kent (1992)](https://doi.org/10.1016/S1057-7408%2808%2980060-5).
 
 Short historical background (en français):
 <https://www.rtbf.be/article/mozart-et-vivaldi-les-stars-de-la-musique-d-attente-telephonique-11284821>
@@ -72,7 +72,7 @@ You shouldn't get any error running this short script.
 
 ## Documentation
 
-As simple as it can get:
+More coming sooner or later. For now, it is as simple as it can get:
 
 ```python
 ## Vivaldy toy example
