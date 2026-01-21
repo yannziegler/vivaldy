@@ -1,5 +1,5 @@
 __license__ = "EUPL-1.2"
-__version__ = "0.1-alpha"
+__version__ = "0.1.1-alpha"
 __author__ = "Yann"
 __date__ = "2026-01-21"
 

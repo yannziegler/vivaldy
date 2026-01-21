@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vivaldy"
+version = "0.1.1-alpha"
+authors = [
+  { name="Yann", email="phd@yannziegler.com" },
+]
+description = "Add music on hold to your Python code"
+keywords = ["music on hold", "Vivaldi", "musique d'attente"]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "audioop-lts>=0.2.2",
+  "ffmpeg-python>=0.2.0",
+  "playsound3>=3.3.0",
+  "pydub>=0.25.1",
+  "pytubefix>=10.3.6",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "EUPL-1.2"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/yannziegler/vivaldy"
+Issues = "https://github.com/yannziegler/vivaldy/issues"
