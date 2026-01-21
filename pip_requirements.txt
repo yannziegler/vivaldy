@@ -1,0 +1,4 @@
+# Packages missing in conda:
+pytubefix
+playsound3
+audioop-lts
